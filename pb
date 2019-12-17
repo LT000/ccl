@@ -2,7 +2,7 @@
   {
     name = "Tests",
     description = "Creates/manages test files.",
-    bin = "DS0eCGGt",
+    bin = "QARJkhd6",
   },
   {
     name = "Button API",
