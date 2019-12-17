@@ -24,9 +24,4 @@
     description = "Bank system access card.",
     bin = "GSukRQ9a",
   },
-  {
-    name = "Big booty money",
-    description = "OOOOOOOOOO BABY GIMME THAT MONEY BOY OOOOO YEAH LETS GOOO!",
-    bin = "",
-  },
 }
