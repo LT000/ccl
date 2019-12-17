@@ -1,6 +1,6 @@
 {
   {
-    name = "Tests",
+    name = "Test",
     description = "Creates/manages test files.",
     bin = "QARJkhd6",
   },
