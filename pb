@@ -10,9 +10,9 @@
     bin = "PkTTs54m",
   },
   {
-    name = "Bee Library",
-    description = "Table containing all bees with respective parents.",
-    bin = "",
+    name = "periLoad",
+    description = "Adds getPeripherals("name1", "name2", ...).",
+    bin = "HM3z0n6t",
   },
   {
     name = "Bank Server",
