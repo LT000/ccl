@@ -11,7 +11,7 @@
   },
   {
     name = "periLoad",
-    description = "Adds getPeripherals("name1", "name2", ...).",
+    description = "Adds getPeripherals(<name1>, <name2>, ...).",
     bin = "HM3z0n6t",
   },
   {
